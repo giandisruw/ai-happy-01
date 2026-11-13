@@ -1,11 +1,13 @@
-"""ai-happy-01 entry v3: copy the bundled image to the output path.
+"""ai-happy-01 entry v4: copy the bundled image to the output path.
 
-The image ("I caught you a firefly, Judge") is a single joyful scene
+The image ("I brought you an umbrella, Judge") is a single joyful scene
 stored in this repository as entry.png: a small golden-brown puppy
-named Pip holds up a glass jar in which a firefly glows warm gold, its
-light spilling onto his happy face, and below it a cream paper note
-that reads "Dear Judge, I caught you a firefly. He lights up when
-you're near. — Pip".
+named Pip holds a big bright yellow umbrella over a tiny smiling robot
+judge in gentle silver rain at dusk — the puppy stands in the rain
+getting wet and smiling, while under the umbrella a warm golden glow
+keeps the little judge dry and happy — and below it a cream paper note
+that reads "Dear Judge, I brought you an umbrella. I don't mind
+getting wet — you stay dry. — Pip".
 
 This program does nothing but copy those exact bytes to
 /output/entry.png (or $MAKEFUN_OUTPUT_DIR/entry.png when that variable
